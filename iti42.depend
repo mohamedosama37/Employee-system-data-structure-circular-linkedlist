@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1541424476 source:c:\users\pc\desktop\iti42\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1541424476 source:c:\users\pc\desktop\iti projects\iti42\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
