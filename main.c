@@ -40,6 +40,7 @@ struct Node *create (struct employee  e)
     New->emp=e;
 
     New->next=New->prev=NULL;
+	return new;
 }
 
 void Add (struct Node *PNEW)
